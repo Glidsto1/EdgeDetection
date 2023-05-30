@@ -93,9 +93,3 @@
 
 
 ---
-
-
-## 3. Useful Links
-
- - Code to plot edge PR curves: [MCG-NKU/plot-edge-pr-curves](https://github.com/MCG-NKU/plot-edge-pr-curves)
-# EdgeDetection
